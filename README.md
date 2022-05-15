@@ -1,0 +1,2 @@
+# readfile_and_plot
+外部ファイルを読み込み画面上に表示する練習です。saving.txtを読み込みmatplotlibによって描画しています。
